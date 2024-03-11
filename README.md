@@ -6,30 +6,29 @@
 </a>
 </p>
 
-<h1 align="center"> Prediction-football-outcome-in-Bundesliga </h1>
+<h1 align="center"> Prediction football outcome in Bundesliga </h1>
 
 <h3> TABLE OF CONTENTS </h3>
 <ol>
     <li><a href="#intro">Introduction</a></li>
-    <li><a href="#dataset">Dataset</a></li>
-    <li><a href="#model">Used Model</a></li>
-    <li><a href="#performance">Models performance</a></li>
-    <li><a href="#result">Predicted Result</a> </li>
-    <li><a href="#frameworks">Frameworks, Libraries & Languages</a></li>
-    <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#demo">Demo</a></li>
-    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#scraping">Data scraping</a></li>
+    <li><a href="#preprocessing">Data preprocessing</a></li>
+    <li><a href="#models">Machine Learning models</a></li>
+    <li><a href="#results">Results and evaluation</a> </li>
+    <li><a href="#next">Next steps</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
 </ol>
 
-# Introduction
+<h2 id="intro">Introduction</h2>
 
-# Data scraping
+<h2 id="scraping">Data scraping</h2>
 
-# Data preprocessing
+<h2 id="preprocessing">Data preprocessing</h2>
 
-# Machine Learning models
+<h2 id="models">Machine Learning models</h2>
+ 
+<h2 id="results">Results and evaluation</h2>
 
-# Results and evaluation
+<h2 id="next">Next steps</h2>
 
-# Next steps
+<h2 id="acknowledgement">Acknowledgement</h2>
