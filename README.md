@@ -21,6 +21,7 @@
 
 <h2 id="intro">Introduction</h2>
 
+The 2022/2023 Bundesliga season has come to an end with dramatic results, where the title was only decided by the last match and the goal difference, and the last slot for Champions League was determined during the last 9 minutes of the final day. Beside of that, a huge number of over 13.1 million fans watching matches was a significant improvement compared to the previous years impacted by Covid 19 restrictions, which explains the exciting atmosphere all over the stadiums. 
 <h2 id="scraping">Data scraping</h2>
 
 <h2 id="preprocessing">Data preprocessing</h2>
