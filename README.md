@@ -1,7 +1,6 @@
 <p align="center">
 
-<img src="https://img.shields.io/badge/made%20by-Binh%20Hong%20Ngoc-green
-">
+<img src="https://img.shields.io/badge/made%20by-Binh%20Hong%20Ngoc-green">
 <a href="https://www.linkedin.com/in/binhhongngoc/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
