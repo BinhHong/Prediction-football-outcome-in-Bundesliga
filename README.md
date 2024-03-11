@@ -1,9 +1,16 @@
-# Daten-Scraping
+## Table of Contents
+- [Data scraping](#Data scraping)
+- [Data preprocessing](#Data preprocessing)
+- [Machine Learning models](#Machine Learning models)
+- [Results and evaluation](#Results and evaluation)
+- [Next steps](#Next steps)
 
-# EDA, Datenvorverarbeitung und Feature Engineering
+# Data scraping
 
-# Maschines Learnen Modelle
+# Data preprocessing
 
-# Ergebnis und Bewertung
+# Machine Learning models
 
-# Nächste Schritte
+# Results and evaluation
+
+# Next steps
