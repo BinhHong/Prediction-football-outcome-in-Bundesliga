@@ -1,11 +1,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/made%20by-Binh%20Hong%20Ngoc">
-
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-<img src="https://img.shields.io/badge/Contributions-welcome-brightgreen">
-<img src="https://img.shields.io/badge/python-v3.9%2B-orange" />
-<img src="https://img.shields.io/badge/tensorflow-2.13.0-yellow">
 <a href="https://www.linkedin.com/in/md-abdur-sobhan-riad-360b521b1/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
