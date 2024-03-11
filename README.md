@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Data scraping](#Data scraping)
+- [Data scraping](#data scraping)
 - [Data preprocessing](#Data preprocessing)
 - [Machine Learning models](#Machine Learning models)
 - [Results and evaluation](#Results and evaluation)
