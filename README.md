@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20by%20-Abdur Sobhan Riad-blue">
+
+<img src="https://img.shields.io/badge/made%20by-Binh%20Hong%20Ngoc">
+
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/Contributions-welcome-brightgreen">
 <img src="https://img.shields.io/badge/python-v3.9%2B-orange" />
