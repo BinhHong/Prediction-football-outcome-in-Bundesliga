@@ -46,9 +46,11 @@ The following models have been used in the project:
 </ul>
  
 <h2 id="results">Results and evaluation</h2>
-Models | Accuracy | BLEU-1 | BLEU-2
---- | --- | --- | ---
-Vgg 16 with Lstm | 0.5125 | 0.540437 | 0.316454
-Resnet 50 with Lstm | 0.5522 | 0.538153 | 0.321559
-InceptionV3 with Lstm | 0.5012 | 0.545291 | 0.323035
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
+
+
 <h2 id="acknowledgement">Acknowledgement</h2>
