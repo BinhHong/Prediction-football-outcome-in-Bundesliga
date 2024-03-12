@@ -8,7 +8,13 @@
 
 <h1 align="center"> Prediction football outcome in Bundesliga </h1>
 
-<h3> TABLE OF CONTENTS </h3>
+<p align="center">
+<br><br><img src="demo/Screenshot_89.png" width=700 height=400>
+</p>
+<br>
+<p>
+  
+<h3> Table of contents </h3>
 <ol>
     <li><a href="#intro">Introduction</a></li>
     <li><a href="#scraping">Data scraping</a></li>
