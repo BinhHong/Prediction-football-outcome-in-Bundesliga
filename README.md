@@ -25,14 +25,18 @@ The 2022/2023 Bundesliga season has come to an end with dramatic results, where 
 In this project, the prediction of the next match between two teams is carried out, based on their previous performance. The outcome is stated as the probability that a team wins, draws or loses. Furthermore, in order to grasp a picture of the fact the teams are putting more effort on attack than on defence, a probability that both teams scoring is also considered.
 <h2 id="scraping">Data scraping</h2>
 
+
 <h2 id="preprocessing">Data preprocessing</h2>
 
 The dataset is scraped from the website https://fbref.com/, using the libraries requests and BeautifulSoup. The detailed statistics of all matches from season 2019/2020 to season 2023/2024 are then saved to dataframe.
 <h2 id="models">Machine Learning models</h2>
- The following models have been used in this project:
- - Logistic Regression
- - Random Forest
- - Support vector machine
+
+<ul>
+    <li> Logistic Regression </li>
+    <li> Random Forest </li>
+    <li> Support vector machine </li>
+</ul>
+ 
 <h2 id="results">Results and evaluation</h2>
 
 <h2 id="acknowledgement">Acknowledgement</h2>
