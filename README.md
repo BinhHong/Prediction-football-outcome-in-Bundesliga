@@ -30,7 +30,7 @@ The 2022/2023 Bundesliga season has come to an end with dramatic results, where 
 
 In this project, the prediction of the next match between two teams is carried out, based on their previous performance. The outcome is stated as the probability that a team will win, draw or lose. Furthermore, in order to grasp a picture of the fact the teams are putting more effort on attack than on defence, a probability that both teams scoring is also considered.
 <p align="center">
-<br><br><img src="Pictures/Bayer_vs_Bayern.jpg" alt="Bayer vs Bayern" width="500" height="500">
+<br><br><img src="Pictures/Bayer_Bayern.jpg" width="500" height="500">
 </p>
 <br>
 <p>
