@@ -15,7 +15,6 @@
     <li><a href="#preprocessing">Data preprocessing</a></li>
     <li><a href="#models">Machine Learning models</a></li>
     <li><a href="#results">Results and evaluation</a> </li>
-    #<li><a href="#next">Next steps</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
 </ol>
 
