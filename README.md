@@ -9,7 +9,7 @@
 <h1 align="center"> Prediction football outcome in Bundesliga </h1>
 
 <p align="center">
-<br><br><img src="demo/Screenshot_89.png" width=700 height=400>
+<br><br><img src="Pictures/Logo.png" width=700 height=400>
 </p>
 <br>
 <p>
