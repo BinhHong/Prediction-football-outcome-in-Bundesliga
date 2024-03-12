@@ -67,5 +67,5 @@ The following models have been used in the project:
 <h2 id="acknowledgement">Acknowledgement</h2>
 This project is inspired by the works of 
 <ul>
-    <li> Vikas Paruchuri https://www.youtube.com/watch?v=Nt7WJa2iu0s&list=PLQ22X3eLL96fi00hQL2VNaX-OKuDZ3H7s&index=11 </li>
+    <li> [Vikas Paruchuri](https://www.youtube.com/watch?v=Nt7WJa2iu0s&list=PLQ22X3eLL96fi00hQL2VNaX-OKuDZ3H7s&index=11) </li>
 </ul>
