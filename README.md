@@ -65,3 +65,7 @@ The following models have been used in the project:
 
 
 <h2 id="acknowledgement">Acknowledgement</h2>
+This project is inspired by the works of 
+<ul>
+    <li> Vikas Paruchuri https://www.linkedin.com/in/vikparuchuri/ </li>
+</ul>
