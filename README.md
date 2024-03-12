@@ -15,7 +15,7 @@
     <li><a href="#preprocessing">Data preprocessing</a></li>
     <li><a href="#models">Machine Learning models</a></li>
     <li><a href="#results">Results and evaluation</a> </li>
-    <li><a href="#next">Next steps</a></li>
+    #<li><a href="#next">Next steps</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
 </ol>
 
@@ -28,10 +28,12 @@ In this project, the prediction of the next match between two teams is carried o
 
 <h2 id="preprocessing">Data preprocessing</h2>
 
+The dataset is scraped from the website https://fbref.com/, using the libraries requests and BeautifulSoup. The detailed statistics of all matches from season 2019/2020 to season 2023/2024 are then saved to dataframe.
 <h2 id="models">Machine Learning models</h2>
- 
+ The following models have been used in this project:
+ - Logistic Regression
+ - Random Forest
+ - Support vector machine
 <h2 id="results">Results and evaluation</h2>
-
-<h2 id="next">Next steps</h2>
 
 <h2 id="acknowledgement">Acknowledgement</h2>
