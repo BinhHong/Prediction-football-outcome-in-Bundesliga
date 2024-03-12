@@ -45,7 +45,7 @@ The following models have been used in the project:
     <li> Support vector machine </li>
 </ul>
  
-<h2 id="results">Results and evaluation</h2>
+## Results and evaluation
 | Column 1 Header | Column 2 Header | Column 3 Header |
 |-----------------|-----------------|-----------------|
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
