@@ -44,8 +44,8 @@ svm_pipeline = make_pipeline(StandardScaler(), SVC(probability=True))
 param_grid = {
     'svc__kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
     'svc__degree': [2, 3, 4],
-    'svc__gamma': [0.1, 0.6, 1, 10],
-    'svc__C': [0.1, 1, 5, 10]
+    'svc__gamma': [0.1, 1, 10],
+    'svc__C': [0.1, 1, 5]
 }
 
 # carry out a GridSearchCV
@@ -57,7 +57,7 @@ grid_search.fit(train[predictors], train['result_encoded'])
 end_time = time.time()
 fit_duration = end_time - start_time
 
-svm_clf.fit(train[predictors], train['result_encoded'])
+""" svm_clf.fit(train[predictors], train['result_encoded'])
 
 # test
 prob_preds = svm_clf.predict_proba(test[predictors])
@@ -68,4 +68,4 @@ print("a", 1)
 print("Accuracy on test set", accuracy_score(test['result_encoded'], preds))
 
 preds_on_training = svm_clf.predict(train[predictors])
-print("Accuracy on training set", accuracy_score(train['result_encoded'], preds_on_training))
+print("Accuracy on training set", accuracy_score(train['result_encoded'], preds_on_training)) """
